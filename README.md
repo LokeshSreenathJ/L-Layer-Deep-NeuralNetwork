@@ -1,4 +1,4 @@
-# L-Layer-Deep-NeuralNetwork
+# L-Layer-Deep-NeuralNetwork fromScratch
 Built a Regularized L-layer Deep Neural Network from Scratch
 
 Using Numpy Library built a L-layered Deep Neural Network that works with any activation function for each layer.
